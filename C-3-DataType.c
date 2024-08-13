@@ -1,5 +1,6 @@
-#include <stdio.h>
+// Data Type
 
+#include <stdio.h>
 
 int main(){
     
@@ -21,6 +22,8 @@ int main(){
     scanf("%c", &setChar);
     printf("Enter a string value: ");
     scanf("%s", setString);
+    
+    // แสดงค่าตัวแปรแต่ละแบบ
     printf("Integer: %d\n", setInt);
     printf("Float: %f\n", setFloat);
     printf("Double: %.2lf\n", setDouble);
