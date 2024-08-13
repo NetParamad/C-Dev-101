@@ -7,7 +7,7 @@ int main(){
     int setInt;
     float setFloat;
     double setDouble;
-    char setChar[1];
+    char setChar;
     char setString[100];
 
     // รับข้อมูลแต่ละแบบ
